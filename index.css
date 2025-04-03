@@ -12,10 +12,10 @@ h2 {
     padding-top: 15px;
 }
 
-p {
+h3 {
     text-align: center;
-    font-size: 10px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
     padding-top: 10px;
 }

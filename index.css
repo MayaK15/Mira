@@ -38,20 +38,4 @@ p {
     flex-direction: row;
 }
 
-.section {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    margin-left: auto;
-    margin-right: auto;
-    width:fit-content;
-    margin-top: 30x;
-    grid-gap: 20px;
 
-}
-
-.name {
-    width: 150px;
-    height: 150px;
-    text-align: center;
-    background: white
-}
